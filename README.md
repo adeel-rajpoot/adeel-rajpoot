@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp
+
 <!--
 **a-d-e-e-l/a-d-e-e-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

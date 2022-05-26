@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp
+<a href="https://app.daily.dev/_A_D_E_E_L"><img src="https://github.com/a-d-e-e-l/a-d-e-e-l/blob/master/devcards/af31cf9dd5ab42c89ecdd87f26190dd9.png?r=ehq" width="400" alt="Műhâmmāď Äděêl's Dev Card"/></a>
 
 <!--
 **a-d-e-e-l/a-d-e-e-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

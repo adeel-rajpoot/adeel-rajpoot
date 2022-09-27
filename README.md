@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/a-d-e-e-l/a-d-e-e-l/blob/master/devcard.svg" width="200" alt="Műhâmmāď Äděêl's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Muhammad Adeel</h1>
 <h3 align="center">A passionate backend ruby on rails developer</h3>
 
@@ -19,6 +18,8 @@
 - 💬 Ask me about **ruby and rails**
 
 - 📫 How to reach me **adeelrajpoot2692@gmail.com**
+
+<p align="right"> <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/a-d-e-e-l/a-d-e-e-l/blob/master/devcard.svg" width="200" alt="Műhâmmāď Äděêl's Dev Card"/></a></p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
